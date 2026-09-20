@@ -32,6 +32,8 @@ class TrendSignal:
     momentum: float  # 0-100: how fast demand is rising right now
     sample_hashtags: list[str] = field(default_factory=list)
     notes: str = ""
+    country_code: str = "GLOBAL"  # ISO country code the signal was observed in, e.g. "TH"
+    source_url: str | None = None  # link to the underlying trend (e.g. a TikTok sound page)
 
     def __post_init__(self) -> None:
         for name in ("demand_score", "supply_score", "momentum"):
@@ -42,6 +44,30 @@ class TrendSignal:
 
 class TrendSource(Protocol):
     def fetch(self) -> Iterable[TrendSignal]: ...
+
+
+def save_trend_signals(signals: Iterable[TrendSignal], path: Path) -> None:
+    """Serialize signals back to the JSON shape ``JsonTrendSource`` reads.
+
+    Used by scripts/notebooks that pull live signals from somewhere (e.g.
+    a connected TikTok account's trending-sounds chart) and want to persist
+    a snapshot for the pipeline to consume via ``JsonTrendSource``.
+    """
+    payload = [
+        {
+            "topic": s.topic,
+            "niche": s.niche,
+            "demand_score": s.demand_score,
+            "supply_score": s.supply_score,
+            "momentum": s.momentum,
+            "sample_hashtags": s.sample_hashtags,
+            "notes": s.notes,
+            "country_code": s.country_code,
+            "source_url": s.source_url,
+        }
+        for s in signals
+    ]
+    Path(path).write_text(json.dumps(payload, indent=2, ensure_ascii=False))
 
 
 @dataclass
@@ -67,6 +93,8 @@ class JsonTrendSource:
                 momentum=item["momentum"],
                 sample_hashtags=item.get("sample_hashtags", []),
                 notes=item.get("notes", ""),
+                country_code=item.get("country_code", "GLOBAL"),
+                source_url=item.get("source_url"),
             )
             for item in raw
         ]
