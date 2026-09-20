@@ -1,0 +1,5 @@
+requests>=2.31
+# Optional, only needed for real (non-dry-run) video generation:
+# higgsfield-client
+# Optional, for running tests:
+# pytest

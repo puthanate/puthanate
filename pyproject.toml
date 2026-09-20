@@ -1,0 +1,13 @@
+[project]
+name = "content-engine"
+version = "0.1.0"
+description = "Market-gap-driven AI content pipeline for TikTok, powered by Higgsfield"
+requires-python = ">=3.11"
+dependencies = ["requests>=2.31"]
+
+[project.optional-dependencies]
+higgsfield = ["higgsfield-client"]
+dev = ["pytest"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
