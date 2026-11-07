@@ -6,6 +6,72 @@
       "sourceType": "github",
       "skillPath": "skills/adhd/SKILL.md",
       "computedHash": "c9dd844eb830e59e60398765600e5504d06c6092323cfe6509de73520018deaf"
+    },
+    "founder-board": {
+      "source": "Jakeschincariol/founder-skill",
+      "sourceType": "github",
+      "skillPath": "skills/founder-board/SKILL.md",
+      "computedHash": "6895508a35b7b28f5e032e24e991995f6364310a57fabb75008b7d0c066c6d9d"
+    },
+    "founder-brand": {
+      "source": "Jakeschincariol/founder-skill",
+      "sourceType": "github",
+      "skillPath": "skills/founder-brand/SKILL.md",
+      "computedHash": "223e194c59ae0934f1beb3181244c66c49b71a980ba987badcdb5488df9aec42"
+    },
+    "founder-cfo": {
+      "source": "Jakeschincariol/founder-skill",
+      "sourceType": "github",
+      "skillPath": "skills/founder-cfo/SKILL.md",
+      "computedHash": "aa1c3334202c055f62212f701c56f579899761bf8feaaf10062d30e5302caca6"
+    },
+    "founder-competitors": {
+      "source": "Jakeschincariol/founder-skill",
+      "sourceType": "github",
+      "skillPath": "skills/founder-competitors/SKILL.md",
+      "computedHash": "59d4e299c420b98aef832b9c8646a30706c009b22d809d7cdc8c708496f35a75"
+    },
+    "founder-consumer": {
+      "source": "Jakeschincariol/founder-skill",
+      "sourceType": "github",
+      "skillPath": "skills/founder-consumer/SKILL.md",
+      "computedHash": "5279d2e41a2b32ed0177c90b6572eea2297ff212cf287e7168e79af5d1089f42"
+    },
+    "founder-launch": {
+      "source": "Jakeschincariol/founder-skill",
+      "sourceType": "github",
+      "skillPath": "skills/founder-launch/SKILL.md",
+      "computedHash": "c140ed255bbcedb115faac27f8ade197f729250b364d3410c3c2a10a3bad0e31"
+    },
+    "founder-marketing": {
+      "source": "Jakeschincariol/founder-skill",
+      "sourceType": "github",
+      "skillPath": "skills/founder-marketing/SKILL.md",
+      "computedHash": "6984ed11b52352059ef08c8f6bfaf9e801efd7a6dec0bdebd00bf52964d819bd"
+    },
+    "founder-offer": {
+      "source": "Jakeschincariol/founder-skill",
+      "sourceType": "github",
+      "skillPath": "skills/founder-offer/SKILL.md",
+      "computedHash": "47db7757a15e4efc338a09f535dfd140d997220f09e208ccaaae1104a35b0771"
+    },
+    "founder-ops": {
+      "source": "Jakeschincariol/founder-skill",
+      "sourceType": "github",
+      "skillPath": "skills/founder-ops/SKILL.md",
+      "computedHash": "9cfe71c8bf8b86e4ce4a5082e0162bd5596938501928915c9baad272921d764b"
+    },
+    "founder-plan": {
+      "source": "Jakeschincariol/founder-skill",
+      "sourceType": "github",
+      "skillPath": "skills/founder-plan/SKILL.md",
+      "computedHash": "9e2cbdb3518f47279a820c62652b0ebb842f50b35dd02dfe95c31e35317f567d"
+    },
+    "founder-pricing": {
+      "source": "Jakeschincariol/founder-skill",
+      "sourceType": "github",
+      "skillPath": "skills/founder-pricing/SKILL.md",
+      "computedHash": "b619ab18068e456741781a33d245452495b7e9fa57ad7852d84d8b066c6aca31"
     }
   }
 }
