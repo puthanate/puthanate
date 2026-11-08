@@ -1,27 +1,27 @@
 # Monopoly lens
-Score: 4/10 | Vote: FUND IF
+Score: 5/10 | Vote: FUND IF
 
 ## What is strong
-- **A small market that could be owned.** "Durian and rubber families in Surat Thani whose heirs live away" is narrow enough for one company to dominate first. That is the right kind of starting market.
-- **A possible proprietary asset.** Phase A records each farm's routines, yields and history before the handover. If that record really lets a grower partner run the land well without the parents, nobody arriving later has it. This is the only real candidate for a secret or a moat.
-- **Distribution through trust.** The pilot comes through the founder's partner's family. Trust from heirs is the scarce input, and it is reached through families, not through ads.
-- **A plausible data effect.** Agents that improve as more nearby farms join could become a local scale advantage, but only at a density the plan has not yet reached.
+- **A small market that can be owned.** One cluster of 30–40 neighbouring durian and rubber farms in Surat Thani is the right size to win almost entirely before expanding. The Monopoly lens wants this starting point.
+- **A sharp secret.** The value is not in farming tools. It is in the sudden handover, when an heir in Bangkok knows nothing and a harvest is at risk. Earlier rounds missed this. It is a real insight about who pays (the heir) and when they care (now, not in years).
+- **Moats that build on each other.** Farm wills hold know-how that is costly to capture again. Standby crews and a certified scale give local economies of scale. Sealed hub weights could become a trusted name with packing houses. Each farm added makes the cluster harder to copy.
+- **Timing.** Owners are ageing, heirs live in cities, and durian exporters to China care more about maturity and paperwork than before.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **Phase A is incremental, not a breakthrough.** Weather stations, soil sensors and LINE alerts improve on what parents who already farm well do today. They are not ten times better. Phase A is also the part that is easiest to copy and most likely to be crowded. Who already sells sensors, advisory or crop apps to these farmers is unknown (/founder-competitors). If Phase A is a commodity, the company never reaches Phase B.
-2. **The moat arrives on a timeline nobody controls.** The defensible part (managed land, the heir relationship, the recorded know-how) only pays after a handover that "could be many years" away, on a bootstrap budget under ฿1M. Monthly fees have to carry the company until then. Whether parents will pay ฿3,000 a month, and whether heirs will pay instead, is untested (/founder-consumer, /founder-cfo).
-3. **The hard part is people, not technology.** Phase B depends on trusted grower partners and an agronomist, and the founder has no farming know-how. If good local managers can be hired directly by families, the copycat in month six is any trusted person who reports on LINE. A weekly report is not a moat.
+1. **Bypass by the people who deliver it.** The crew leader runs the recorded routine and the family keeps the farm will. After one activation, the heir and the crew leader can deal directly and drop the fee. Nothing proprietary stays with the company unless the hub, the scale and the buyer relationships become things the family cannot replace.
+2. **The trigger is rare and the cover is optional.** Heirs pay every month for an event that may not happen for years. If they cancel during the quiet years, nothing locks them in. Nobody knows how often parents become unable to work, so the core product's economics are a guess.
+3. **Middlemen already own distribution.** Local middlemen who advance cash to parents already hold the grower relationship and the trust. They can offer "we'll handle it if you get sick" for free as a reason to stay with them. This is the copycat in month six.
 
 ## The questions I would ask the founder
-- What is the secret: what do you know about absent heirs that local farm managers and ag-tech sellers do not?
-- How many Surat Thani families are in this situation, and how many have already handed over? (/founder-competitors for market size)
-- Which one thing is ten times better than what an absent heir can arrange today?
-- How do the first 100 families arrive, and what does each one cost to win and to install? (/founder-cfo)
-- What stops a grower partner from leaving with the routines and serving the family directly?
-- Who owns the farm record, and does it lock anything in?
+- What does the company own after an activation that the family and the crew leader do not?
+- How do the first 100 heirs arrive beyond your partner's network, and what does each one cost? (CAC: open question for /founder-consumer and /founder-cfo.)
+- How many such families are there in one district, and what share can one hub reach? (Open question for /founder-competitors.)
+- How often do parents in this group become unable to work, and in which month?
+- What would a middleman have to do to copy this, and why can't they?
+- Which piece is about ten times better than today's fallback of calling an uncle or the middleman?
 
 ## If FUND IF: the conditions
-1. Start with Phase B, not Phase A: sign five or more families whose land is already in an heir's hands, or about to be, and charge them a real fee.
-2. Show that the recorded routines measurably help a grower partner run a farm they did not know, on at least one plot.
-3. Have /founder-competitors map who already serves these heirs, and narrow to the segment where nobody does.
-4. Have /founder-cfo show the company survives on fees alone until handovers begin.
+- The 30-day test hits its own bar: 5 refundable ฿3,000 deposits from heirs outside the founder's family circle.
+- A written answer to the bypass problem: what the heir keeps paying for in quiet years. The likely answer is the weekly report plus sealed hub records and the buyer access that comes with them.
+- At least one packing house quotes for GAP-documented lots, showing the hub can become the cluster's trusted scale, the lasting moat.
+- /founder-competitors maps what middlemen and existing farm managers already offer heirs before any hub money is spent.

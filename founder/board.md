@@ -1,45 +1,43 @@
-# Board verdict: Surat Smart Land (round 3, "family in transition")
+# Board verdict: Surat Smart Land (round 4, "Farm Continuity Cover")
 
-**Vote: 3 FUND IF, 0 FUND, 0 PASS. Average score 4.0 / 10** (round 1: 4.7, round 2: 4.3).
+**Vote: 3 FUND IF, 0 FUND, 0 PASS. Average score 5.3 / 10.** This is the highest so far (R1 4.7, R2 4.3, R3 4.0).
 
-| Lens | Round 1 | Round 2 | Round 3 | Vote |
-|---|---|---|---|---|
-| Offers | 5 | 4 | 4 | FUND IF |
-| Monopoly | 5 | 4 | 4 | FUND IF |
-| Product | 4 | 5 | 4 | FUND IF |
+| Lens | R1 | R2 | R3 | **R4** | Vote |
+|---|---|---|---|---|---|
+| Offers | 5 | 4 | 4 | **5** | FUND IF |
+| Monopoly | 5 | 4 | 4 | **5** | FUND IF |
+| Product | 4 | 5 | 4 | **6** | FUND IF |
+
+All three say the same thing changed: **the business now starts from a moment.** A parent falls ill before harvest, and the heir in Bangkok knows nobody. The payer is named (the heir), the guarantee is honest (48 hours on site, or fees refunded), and the product fits in one sentence.
 
 ## Risks more than one member raised
 
-1. **Two products for two customers, years apart.** *(all three)* Phase A sells farm tech to parents who already farm well. Phase B sells a managed asset to absent heirs. The real pain sits with the heir, but the heir's payoff comes only at a handover that could be many years away.
-2. **Phase A may not be needed.** *(Product, Monopoly, Offers)* Parents know their farm. Sensors and LINE alerts improve on what they do; they are not ten times better. It's also the easiest part to copy and the most likely to be crowded. If Phase A doesn't land, Phase B's data never gets collected.
-3. **The moat depends on people and timing nobody controls.** *(Monopoly, Product)* No grower partner is signed. Recorded routines are an untested way to pass on farming skill. The defensible part pays only after handovers, and fees must carry the company until then.
-4. **No proof and an unknown market.** *(Offers, Monopoly)* How many families are in this situation, who pays, and what an install costs are all unknown.
-
-## Where they agree, unusually strongly
-
-All three say the same thing: **start with Phase B.** Sell to heirs whose land is *already* in their hands or about to be, and make Phase A the onboarding for that product, not a second business.
+1. **It's insurance, and the quiet years cause cancellations.** *(all three)* The trigger is rare and unpredictable. In normal months the heir pays for a weekly report. If that report is thin, they cancel before the moment comes. How often parents become unable to work is unknown.
+2. **Too many products.** *(Offers, Product)* Cover, farm will, hub with four services, sealed-records subscription, buyer-paid lots, EUDR: about six businesses. The hub could use up ฿500–700k before the core offer is proven.
+3. **The rescue fails at peak season.** *(Product, Offers)* Activation is most likely when every crew is booked. One no-show, or one mishandled harvest or buyer payment, ends trust permanently.
+4. **Bypass and the middlemen.** *(Monopoly, partly Offers)* After one activation, the heir and crew leader can deal directly. Local middlemen who advance cash to parents could offer "we'll handle it if you get sick" for free.
+5. **Parents may resist the farm will** because it feels like planning for their death. *(Offers, Product)*
 
 ## Where they disagree
 
-- **Monopoly** thinks the recorded farm know-how *could* be the only real moat, if it is proven to help a grower run an unfamiliar farm.
-- **Product** thinks the weekly heir report is the core, and wants it prototyped by hand with no AI.
-- **Offers** wants the payer decided first: parents or children.
+- **The hub.** Offers and Product want it parked, keeping only what the cover needs. Monopoly sees the hub (trusted scale, buyer relationships) as **the lasting moat**, and wants a packing-house quote to prove it.
+- **What keeps heirs paying.** Offers: anchor the price to the cost of a lost harvest, and if that loss is small it passes. Product: the weekly report must be worth opening. Monopoly: sealed records plus buyer access.
 
 ## Conditions checklist
 
-- [ ] **Pick one customer and one sentence.** The heir. *(all three)*
-- [ ] **Find 5+ families where land is already with an heir or the handover is close**, and charge a real fee. *(Monopoly, Offers)*
-- [ ] **Decide who pays** and price against what that person gets. → `/founder-consumer`, `/founder-pricing` *(Offers)*
-- [ ] **Prototype the weekly heir report by hand** on the pilot farm (phone, LINE, scale, no AI). Prove the heir reads, trusts and would pay. *(Product)*
-- [ ] **Sign at least one grower partner and an agronomist**, and run a trial season before selling handover services. *(all three)*
-- [ ] **Show recorded routines help a grower run an unfamiliar plot.** *(Monopoly)*
-- [ ] **Map who already manages land for absent owners** and find the segment nobody serves. → `/founder-competitors` *(Monopoly, Offers, Product)*
-- [ ] **Equipment cost per plot, and survival on fees until handovers begin.** → `/founder-cfo` *(Monopoly, Offers, Product)*
-- [ ] **A written guarantee on what the company controls**, costed. → `/founder-cfo` *(Offers)*
-- [ ] **Park the multi-agent platform** until the core works for a handful of families. *(Product)*
+- [ ] **Year 1 = farm will + Continuity Cover only.** Keep just the parts of the hub the cover needs. *(Offers, Product)*
+- [ ] **5 refundable ฿3,000 deposits**, from heirs *outside* the founder's family circle, who have seen the farm will and a sample report. *(all three)*
+- [ ] **2 crew leaders signed, with peak-season availability named.** *(Offers, Product)*
+- [ ] **A full drill activation in a peak-season week**: on site within 48 hours, daily photos to the family. *(Product)*
+- [ ] **Hour 0 to 48 written out**: who answers, who drives, who tells the buyer. *(Product)*
+- [ ] **A reason to pay in quiet months**: a weekly report worth opening, or a one-off will price with a low cover price. *(all three)*
+- [ ] **The cost of one lost durian harvest**, to anchor the price. → `/founder-cfo` *(Offers)*
+- [ ] **How often parents become unable to work** (per 100 farms per year, and in which month). → local records, `/founder-consumer` *(all three)*
+- [ ] **What the company owns after an activation** that the family and crew can't take away. *(Monopoly)*
+- [ ] **Map what middlemen, farm managers and insurers already offer heirs.** → `/founder-competitors` *(all three)*
+- [ ] **One packing-house quote for GAP-documented lots**, the test of the hub moat. *(Monopoly)*
+- [ ] **Test whether parents will sit for the farm-will interview**, and who keeps it current. *(Offers, Product)*
 
 ## The strongest version the board can see
 
-After three rounds, the board keeps landing in the same place: **a trusted service for heirs who already own Surat Thani durian and rubber land they don't farm.** Grower partners run the land, and the heir gets an honest weekly LINE report with sealed harvest records. Smart-farming tools and the parents' recorded know-how are *how* the company does this well, and how it signs families before the handover. They are not a separate product for parents. The AI agent platform comes later. This differs from what was pitched this round, which led with smart farming for the parents.
-
-Note for the founder: scores have stayed between 4 and 5 across three different models, because every lens is asking for evidence that doesn't exist yet: real families, a real season, real costs. Another rewrite of the idea is unlikely to move the score. Real data from the pilot farm and the first heirs will.
+**Farm Continuity Cover, sold to Bangkok heirs of Surat Thani durian and rubber families: "If your parent can't work, a vetted crew leader is on your farm within 48 hours, running your parents' own routine, with photos in your family LINE group every day."** In year 1, the product is only the farm will (also sold one-off) and the cover. A weekly report makes the quiet months worth paying for. Two or three crew leaders on peak-season standby make the promise real. The village hub grows underneath it only as fast as the cover needs it. Once enough farms in one cluster weigh through the hub, the trusted scale and packing-house relationships become the long-term moat Monopoly is asking for, and buyer-paid verified lots follow. This is close to what was pitched, but narrower: the board would fund the cover first, and the hub and buyer lots only after heirs have paid.

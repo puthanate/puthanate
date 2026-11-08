@@ -1,28 +1,26 @@
 # Product lens
-Score: 4 | Vote: FUND IF
+Score: 6/10 | Vote: FUND IF
 
 ## What is strong
-- **One clear moment exists.** An heir in Bangkok opens LINE and reads a plain-Thai weekly report on their durian and rubber land, with sealed harvest weights and photos. It is an experience you can design backward from.
-- **The founder has already cut once.** Dropping farm security for working farmers was the right "no".
-- **The trust promise is concrete.** Work on time, honest numbers and a fast response are things the company controls.
-- **A real pilot family** to test on.
+- **It finally starts from a moment.** A parent falls ill just before durian harvest, and an heir in Bangkok does not know the crews, buyers or the jobs due this week. That is the experience to work back from, and the brief now does.
+- **It fits in one sentence:** "If your parent can't work, a vetted crew leader is on your farm within 48 hours, running your parents' own routine, with photos in your family LINE group every day." Earlier rounds could not say this.
+- **The interface is invisible.** One LINE message to activate, plain-Thai reports and phone photos. There is no app to learn, and it uses the channel the family already lives in.
+- **The guarantee covers the one thing the company controls** (48 hours on site) and makes no promise about crops, weather or prices. That is honest.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **No focus: two products for two customers, years apart.** Phase A is a farm-tech advisory tool for parents who already farm well. Phase B is a managed-asset service for absent heirs. Each needs its own hardware, people and pitch, and a multi-agent AI platform sits on top. The pitch takes a paragraph, so the product is not clear yet.
-2. **The handover is the biggest seam, and nobody owns it yet.** The heir's experience depends on local grower partners running the land from recorded routines. No partners are signed, and recorded routines are an untested way to pass on farming skill. If they fail, the weekly report honestly records a farm in decline.
-3. **Phase A may be a product nobody needs.** The parents already know the farm. Nobody knows yet whether the tools improve their yields or costs. If it does not delight them, Phase B's data is never collected.
+1. **The product fails at the one moment it exists for.** Activation is most likely in peak durian season, which is when crew leaders are already booked, and nobody knows yet whether crews are free then. A crew leader who does not turn up, or who handles someone else's harvest and buyer cash badly, breaks trust for good. Every handover is a weak point: village contact to company, company to crew leader, crew leader to the parents' buyers, and then the family deciding what to do after 90 days.
+2. **Too many products.** The cover, a one-off farm will, a hub with four services, a sealed-records subscription, buyer-paid lots and EUDR mapping are six products. The 30-day plan has five separate goals. The hub may be what makes delivery possible, but to the heir it is a second business.
+3. **What heirs see in normal times is thin, and the farm will goes out of date.** Heirs pay every month for an event that may never happen, so the weekly report is what they actually get. If that report is generic, or the parents do not keep the will current (or resist recording it because it feels like planning for their death), the cover gets cancelled before the moment it is for.
 
 ## The questions I would ask the founder
-- What is the one-sentence pitch, and which customer is it for: parents or children?
-- What are the heir's first five minutes after signing up, and who did the work behind it?
-- If you could build only Phase A or only Phase B, which would you keep?
-- Who pays, and how much? (Open: /founder-consumer.)
-- What does equipment cost per plot, and does ฿40,000 plus ฿3,000 a month cover it? (Open: /founder-cfo.)
-- How many families in Surat Thani are in transition, and who else already manages land for absent owners? (Open: /founder-competitors.)
-- What happens when a grower partner quits mid-season?
+- Walk me through hour 0 to hour 48 after the LINE message. Who answers, who drives out, and who tells the durian buyer?
+- What does the heir get in a normal week that makes them want to open the LINE report?
+- How do parents feel during the farm-will interview, and who keeps the will current?
+- If you could keep only the cover or only the hub, which one would you keep?
+- Open questions: how much heirs will pay, and how often (/founder-consumer); what the hub and standby retainers cost in total (/founder-cfo); what the middlemen, farm managers and insurers already offer (/founder-competitors). How often parents become unable to work is still unknown.
 
 ## If FUND IF: the conditions
-1. **Pick one customer and one sentence.** The heir is where the clear experience is. Phase A becomes the onboarding for that product, not a second business.
-2. **Prototype the heir's weekly report by hand on the pilot farm.** Phone, LINE and a scale, no AI agents. Prove the heir reads, trusts and would pay for it.
-3. **Sign at least one grower partner and run a trial season** before selling handover services.
-4. **Park the multi-agent platform** until the core experience works for a handful of families.
+1. For year 1, cut the product to the cover plus the farm will. Keep only the parts of the hub that the cover needs to work, and defer the verified lots and EUDR.
+2. Run a full drill activation on the pilot farm during a peak-season week. A crew leader must be on site within 48 hours, and daily photos must reach the family.
+3. Sign at least 2 crew leaders to standby terms that name peak-season availability.
+4. Get 5 refundable founding deposits from heirs who have seen the farm will and a sample weekly report.
