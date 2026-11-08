@@ -1,16 +1,17 @@
 # Surat Smart Land (working name)
 
-- What it is: a technology platform that lets heirs of inherited farmland stay the owner and manage their land like a professional, by showing them what is really happening on the plot, telling them what to decide, and connecting them to vetted local people who do the work.
-- Who it is for: 2nd and 3rd generation heirs who have inherited farmland in Surat Thani (rubber, oil palm, durian, rice paddy, vegetable plots), have no interest in farming themselves, often live away from the land (Bangkok, abroad or in town), but want to keep ownership of it.
-- What it sells, at what price (premium positioning, not competing on price):
-  - Land Health Check (entry product): ฿40,000 one-off. Drone boundary survey, title check, tree census, a 30-day sealed-weighing "shadow audit" that measures leakage in baht, a statement per heir.
-  - IoT / monitoring installation (certified scale, camera, tags, any sensors): charged to the owner. Cost per plot not yet known.
-  - Monthly subscription: ฿3,000 per plot per month. Satellite crop-health monitoring, weighing logs, expected-yield alerts, a weekly LINE update, seasonal crop playbooks, family voting on LINE, annual Land Statement.
-  - Marketplace fee: 10% on tappers, harvest crews, caretakers and agronomy experts the owner hires through the platform.
-- Where and how: starts in Surat Thani province. Heirs found through local lawyers, the Land Office, bank branches, rubber cooperatives and heir networks in Bangkok. Delivered through LINE and a web dashboard, with field work done by contracted drone operators and vetted local crews.
+- What it is: an advise-and-implement farmland service for heirs who keep their land. AI agents for each farm job (weather and water, crop calendar, plant health, harvest, market, crew, paperwork, owner reporting) recommend actions, experienced local grower partners carry them out, and the heir receives passive income plus an honest LINE report, without selling the land or learning to farm.
+- Who it is for: 2nd and 3rd generation heirs, often living in Bangkok, who have inherited durian and rubber (later also oil palm, rice, vegetable) land in Surat Thani. They don't know how to farm and don't want to learn. They want to keep the land, live off its income, and treat it like an investment that must "make sense" in returns. What they value most is comfort and trust.
+- What it sells, at what price (premium, not competing on price):
+  - Land Health Check (entry): ฿40,000 one-off. Survey, title check, tree census, sealed-weighing shadow audit, baseline yield.
+  - Base fee: ฿3,000 per plot per month, paid in any year.
+  - Performance share: a percentage of yield above the baseline set in the audit, ideally adjusted for that year's price and weather. The percentage is not yet set.
+  - Field station and IoT installation: charged to the owner. Cost per plot not yet known.
+  - No guarantee of crop results or income.
+- Where and how: Surat Thani first. The pilot plot is a family durian and rubber farm the founder has a personal connection to; that family is the first grower partner. Heirs are found through personal and Bangkok networks. Delivered through LINE.
 - Budget and constraints:
-  - Bootstrapped, under ฿1M, founder(s) only, no outside funding yet.
-  - The founder does NOT have farming know-how and does not want to run farms. Farming knowledge is rented from partners (agronomist advisors paid per consult, the Rubber Authority of Thailand district office, Department of Agriculture extension, a local university).
-  - The founder's edge is technology.
-  - The owner keeps ownership and control of the land and makes the decisions.
-  - Brand: tech enabler, sustainable, protects the client's interests, high-end, aims to dominate this niche long term rather than compete on price.
+  - Bootstrapped, under ฿1M, founder(s) only. The founder has technology skills, not farming know-how.
+  - Farming know-how comes from grower partners and an agronomist advisor.
+  - Agents recommend; a person (grower partner or agronomist) approves.
+  - The owner keeps the title and the final decisions.
+  - Built in stages.

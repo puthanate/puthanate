@@ -1,28 +1,25 @@
 # Product lens
-Score: 4 | Vote: FUND IF
+Score: 5 | Vote: FUND IF
 
 ## What is strong
-- There is a real moment to design for. An heir in Bangkok opens LINE and sees one message: this week's harvest weighed X kg, expected was Y, and a photo of the sealed scale. If that message can be trusted, it is worth paying for.
-- Starting from the owner's experience is right. LINE plus a weekly update plus alerts only when something is wrong is a restrained, simple design.
-- Not taking over the farm keeps the promise clear: you stay the owner, and you can finally see your land.
+- The customer's experience is clear even if the product is not: a Bangkok heir who wants to keep the land, never think about farming, and trust the numbers. "Comfort and trust" is the right thing to design for.
+- The trust mechanics are concrete and visible: sealed weighing with a certified scale, camera and tags, photos, a yield record and plain-Thai LINE reports in good years and bad.
+- LINE as the single surface fits how the heir already lives. The weekly report is the product as the heir sees it.
+- A real pilot farm and an honest contract about what the company controls.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **No focus.** Drone survey, satellite imagery, a sealed scale, a yield model, crop playbooks, family voting, an annual statement and a hiring marketplace, across five crops. That is eight products, not one. The Product lens asks for the pitch in one sentence, and this one needs a page. With a bootstrapped budget and only the founders, each part will be built half-well.
-2. **Seams the business does not control.** The core promise (catching short-weighing and side-selling) depends on crews, a caretaker, buying yards and contracted drone operators, and those are the very people the product is watching. Every hand-off is a place where the data can be gamed. If one alert is wrong, or one theft goes unseen, trust in the whole platform is lost.
-3. **Craft in the parts nobody sees.** The yield model and the playbooks are the "intelligence", and the farming knowledge behind them is rented per consultation. If the expected-yield number is wrong, the alerts are just noise and the owner stops reading them. Nobody yet knows how accurate it can be for each crop.
+1. **No focus.** Eight agents, an orchestrator, LoRaWAN, solar, sensors, field stations, irrigation, drones, paperwork and a platform for other growers. The Product lens asks for one thing done brilliantly; this brief describes a technology ecosystem, while the heir is buying peace of mind. The tech can eat the sub-฿1M budget before any heir feels a difference.
+2. **Seams between people.** The experience passes from heir to company to grower partner to agronomist to AI agent and back to LINE. Agents recommend, a person approves; the crew does the work. Each handover is where trust breaks: a late approval, an immature durian cut, an unexplained scale reading. The heir blames the company for all of it.
+3. **The pitch fights the promise.** The heir wants comfort, but is asked to pay ฿40,000 up front, ฿3,000 a month, an unset performance share, and an unknown installation bill, with no income guarantee. That is effort and doubt where it should feel effortless.
 
 ## The questions I would ask the founder
-- In one sentence, what does an heir pay ฿3,000 a month for?
-- What do the first five minutes after the ฿40,000 Health Check feel like? What does the heir actually hold or see?
-- Which single crop and which single problem would you launch with, and what would you cut?
-- How does the scale record stay honest when the caretaker or the buying yard does not want it to?
-- How accurate does the yield model need to be before an alert is trusted, and who checks it?
-- Would heirs pay this price for visibility alone? Open question for /founder-consumer.
-- What does the monitoring hardware cost per plot, and does it fit the price? Open question for /founder-cfo.
-- Who already sells monitoring or absentee management to these owners? Open question for /founder-competitors.
+- Say it in one sentence, without the word "AI". What does the heir buy?
+- Describe the heir's first five minutes after signing, and the first bad-harvest report. What do they read, and what do they feel?
+- If you could keep only one agent, which one, and why does the heir care?
+- What does the field station cost per plot, and will an heir pay it before seeing a result? Open: /founder-cfo (cost), /founder-consumer (willingness to pay).
+- Who else already manages farms for absentee owners in Surat Thani, Open: /founder-competitors.
 
 ## If FUND IF: the conditions
-1. Cut the launch to one crop and one promise, for example rubber or durian with "see every harvest, weighed and sealed." Marketplace, voting, playbooks and the Land Statement wait until that works.
-2. Map every hand-off in the harvest-to-LINE flow, show how each one is made tamper-evident, and test it on a few real plots before charging the full price.
-3. Write down how accurate the yield model is per crop, and do not send an alert that could not stand up if a sibling questioned it.
-4. Get answers from /founder-consumer, /founder-cfo and /founder-competitors to the three open numbers above before spending on hardware.
+1. Cut Stage 1 to one promise in one sentence: the heir gets an honest, weekly, plain-Thai account of their land and its income. Build only what makes that report trustworthy (sealed weighing, photos, yield record); defer the rest.
+2. Map every handover on the pilot farm and name one accountable person for each, before adding a second plot.
+3. Price the whole experience as one number the heir understands, costed by /founder-cfo and tested by /founder-consumer before Stage 2.

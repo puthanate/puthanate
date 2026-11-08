@@ -1,48 +1,57 @@
-# Board brief: Surat Smart Land
+# Board brief: Surat Smart Land (revised model)
 
-## The idea (from founder/idea.md)
+## The customer and the pain
 
-- What it is: a technology platform that lets heirs of inherited farmland stay the owner and manage their land like a professional, by showing them what is really happening on the plot, telling them what to decide, and connecting them to vetted local people who do the work.
-- Who it is for: 2nd and 3rd generation heirs who have inherited farmland in Surat Thani, southern Thailand (rubber, oil palm, durian, rice paddy, vegetable plots), have no interest in farming themselves, often live away from the land, but want to keep ownership.
-- Price (premium, not competing on price):
-  - Land Health Check: ฿40,000 one-off.
-  - IoT / monitoring installation: charged to the owner, cost per plot not yet known.
-  - Subscription: ฿3,000 per plot per month.
-  - Marketplace fee: 10% on crews and experts hired through the platform.
-- Where and how: Surat Thani first. Heirs found through local lawyers, the Land Office, bank branches, rubber cooperatives and heir networks in Bangkok. Delivered through LINE (Thailand's main messaging app) and a web dashboard. Field work done by contracted drone operators and vetted local crews.
-- Budget: bootstrapped, under ฿1M, founder(s) only.
+- **Who:** heirs of family farmland in Surat Thani, southern Thailand, mainly durian and rubber (ยางพารา). Often 2nd/3rd generation and living in Bangkok.
+- **What they want:** they don't know how to farm and don't want to learn. They want to keep the land (never sell), live off its income, and see a return that "makes sense" as an investment.
+- **What matters most to them:** comfort (they don't have to think about it) and trust (they're not being cheated).
+- **A real example:** the founder's partner's family farms durian and rubber. The partner has said that if she inherits she wouldn't know how to run it and just wants to live off the income.
+- **The founder's background:** this idea was the founder's thesis and personal statement for entry to Waseda University.
 
-## Product in three layers
+## The model: advise and implement, with no guarantee
 
-1. **See (the technology):**
-   - drone boundary survey and tree count
-   - free satellite crop-health imagery
-   - a certified scale with tamper seal, camera and phone log at the point where the harvest is handed over, so short-weighing, grade switching and side-selling become visible
-   - an expected-yield model that alerts the owner when output drops below what the trees should give
-   - one weekly LINE update, plus alerts only when something is wrong
-2. **Decide (the owner decides):**
-   - seasonal playbooks per crop
-   - family voting on LINE for big decisions, because inherited land is often co-owned by several siblings
-   - an annual Land Statement covering land value, tree health, title status and yield
-3. **Act (local people do the work):**
-   - a vetted, scored network of tappers, harvest crews, caretakers and agronomy experts that the owner hires through the platform
-   - the existing caretaker stays as the owner's employee, on measured terms
+- **The heir:** keeps the land title and has the final say on decisions.
+- **The company:** acts as advisor and implementor, not owner or lessee. It makes no guarantee of crop results or income. It is accountable for what it controls: doing agreed work on time, honest numbers, best advice, and fast response. It is not accountable for weather, prices or disease outbreaks. The contract will state this.
+- **The farm work:** done by **experienced local grower partners**, starting with the founder's partner's family as the pilot, plus an agronomist advisor. The founder has technology skills, not farming know-how.
+- **Trust:** comes from sealed weighing at the harvest handover (certified scale, camera, tags), photos, a yield record and plain-Thai LINE reports for the heir, in good years and bad.
 
-## Founder's stated position and constraints
+## The technology vision: an AI agent ecosystem
 
-- The founder believes heirs want to keep ownership and control, so the company does NOT take over management of the farm.
-- The founder openly says they do not have farming know-how. Their advantage is technology, which they believe will let them break into the market.
-- Farming knowledge is rented from partners: agronomists paid per consultation, the Rubber Authority of Thailand district office, Department of Agriculture extension, a local university.
-- Brand goal: tech enabler, sustainable, protects clients' interests, high-end, wants to dominate this niche long term rather than compete on price.
+One AI agent per farm job:
+- weather and water
+- crop calendar (flowering and fertiliser timing for durian; tapping and rest days for rubber)
+- plant health (phone photos plus satellite)
+- harvest and quality (maturity, preventing immature durian cutting, sealed weights)
+- market prices
+- crew scheduling
+- paperwork (GAP, export registration, EU Deforestation Regulation traceability)
+- the owner's weekly LINE report
 
-## Context the founder raised in earlier discussion (unverified, to be tested)
+An orchestrator coordinates them. **Agents recommend; a person (grower partner or agronomist) approves.** Data from every plot improves the agents for all plots.
 
-- Theft of latex, durian and palm bunches is common. It is often done by insiders or happens at the buying yard through short-weighing and grade switching.
-- Encroachment on boundaries of absentee owners' land is a problem.
-- Some heirs are offered upfront cash leases by durian operators (often Chinese-backed) who may overwork the trees.
-- Inherited land is frequently co-owned by siblings who disagree.
-- EU Deforestation Regulation traceability for rubber and palm may create premium-buyer demand for documented plots.
+## Infrastructure needed
+
+- Connectivity (4G is patchy; a LoRaWAN gateway for sensors)
+- Solar power
+- A weather station, soil moisture sensors and pond water level
+- A "field station" shelter per farm or cluster (gateway, sealed scale, camera, storage)
+- Irrigation upgrades for durian
+- Contracted drone surveys
+
+## Price (premium, not competing on price)
+
+- **Land Health Check:** ฿40,000 one-off (survey, title check, tree census, sealed-weighing shadow audit, baseline yield).
+- **Base fee:** ฿3,000 per plot per month, paid in any year.
+- **Performance share:** a percentage of yield above the audit baseline, adjusted for price and weather. The percentage is not set yet.
+- **Field station and IoT installation:** charged to the owner. Cost per plot unknown.
+
+## Plan and budget
+
+- Bootstrapped, under ฿1M, founder(s) only.
+- **Stage 1 (months 0–6):** one pilot plot (the partner's family), one field station, 3 agents (weather and water, crop calendar, owner report), built on LINE with free data and a commercial AI model.
+- **Stage 2 (months 6–18):** 10–20 heir plots nearby; add the plant health and harvest agents and some irrigation.
+- **Stage 3:** the full agent ecosystem, open as a platform to other growers.
 
 ## Not known yet
 
-Market size, number of target heirs, cost of acquiring a customer, IoT cost per plot, real leakage rates, and existing competitors.
+Number of target heirs, cost to acquire one, installation cost per plot, real yield uplift or leakage numbers, the performance-share percentage, whether grower partners beyond the pilot family will join, and existing competitors.
