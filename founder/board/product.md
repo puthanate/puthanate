@@ -1,25 +1,28 @@
 # Product lens
-Score: 5 | Vote: FUND IF
+Score: 4 | Vote: FUND IF
 
 ## What is strong
-- The customer's experience is clear even if the product is not: a Bangkok heir who wants to keep the land, never think about farming, and trust the numbers. "Comfort and trust" is the right thing to design for.
-- The trust mechanics are concrete and visible: sealed weighing with a certified scale, camera and tags, photos, a yield record and plain-Thai LINE reports in good years and bad.
-- LINE as the single surface fits how the heir already lives. The weekly report is the product as the heir sees it.
-- A real pilot farm and an honest contract about what the company controls.
+- **One clear moment exists.** An heir in Bangkok opens LINE and reads a plain-Thai weekly report on their durian and rubber land, with sealed harvest weights and photos. It is an experience you can design backward from.
+- **The founder has already cut once.** Dropping farm security for working farmers was the right "no".
+- **The trust promise is concrete.** Work on time, honest numbers and a fast response are things the company controls.
+- **A real pilot family** to test on.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **No focus.** Eight agents, an orchestrator, LoRaWAN, solar, sensors, field stations, irrigation, drones, paperwork and a platform for other growers. The Product lens asks for one thing done brilliantly; this brief describes a technology ecosystem, while the heir is buying peace of mind. The tech can eat the sub-฿1M budget before any heir feels a difference.
-2. **Seams between people.** The experience passes from heir to company to grower partner to agronomist to AI agent and back to LINE. Agents recommend, a person approves; the crew does the work. Each handover is where trust breaks: a late approval, an immature durian cut, an unexplained scale reading. The heir blames the company for all of it.
-3. **The pitch fights the promise.** The heir wants comfort, but is asked to pay ฿40,000 up front, ฿3,000 a month, an unset performance share, and an unknown installation bill, with no income guarantee. That is effort and doubt where it should feel effortless.
+1. **No focus: two products for two customers, years apart.** Phase A is a farm-tech advisory tool for parents who already farm well. Phase B is a managed-asset service for absent heirs. Each needs its own hardware, people and pitch, and a multi-agent AI platform sits on top. The pitch takes a paragraph, so the product is not clear yet.
+2. **The handover is the biggest seam, and nobody owns it yet.** The heir's experience depends on local grower partners running the land from recorded routines. No partners are signed, and recorded routines are an untested way to pass on farming skill. If they fail, the weekly report honestly records a farm in decline.
+3. **Phase A may be a product nobody needs.** The parents already know the farm. Nobody knows yet whether the tools improve their yields or costs. If it does not delight them, Phase B's data is never collected.
 
 ## The questions I would ask the founder
-- Say it in one sentence, without the word "AI". What does the heir buy?
-- Describe the heir's first five minutes after signing, and the first bad-harvest report. What do they read, and what do they feel?
-- If you could keep only one agent, which one, and why does the heir care?
-- What does the field station cost per plot, and will an heir pay it before seeing a result? Open: /founder-cfo (cost), /founder-consumer (willingness to pay).
-- Who else already manages farms for absentee owners in Surat Thani, Open: /founder-competitors.
+- What is the one-sentence pitch, and which customer is it for: parents or children?
+- What are the heir's first five minutes after signing up, and who did the work behind it?
+- If you could build only Phase A or only Phase B, which would you keep?
+- Who pays, and how much? (Open: /founder-consumer.)
+- What does equipment cost per plot, and does ฿40,000 plus ฿3,000 a month cover it? (Open: /founder-cfo.)
+- How many families in Surat Thani are in transition, and who else already manages land for absent owners? (Open: /founder-competitors.)
+- What happens when a grower partner quits mid-season?
 
 ## If FUND IF: the conditions
-1. Cut Stage 1 to one promise in one sentence: the heir gets an honest, weekly, plain-Thai account of their land and its income. Build only what makes that report trustworthy (sealed weighing, photos, yield record); defer the rest.
-2. Map every handover on the pilot farm and name one accountable person for each, before adding a second plot.
-3. Price the whole experience as one number the heir understands, costed by /founder-cfo and tested by /founder-consumer before Stage 2.
+1. **Pick one customer and one sentence.** The heir is where the clear experience is. Phase A becomes the onboarding for that product, not a second business.
+2. **Prototype the heir's weekly report by hand on the pilot farm.** Phone, LINE and a scale, no AI agents. Prove the heir reads, trusts and would pay for it.
+3. **Sign at least one grower partner and run a trial season** before selling handover services.
+4. **Park the multi-agent platform** until the core experience works for a handful of families.

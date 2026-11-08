@@ -1,45 +1,45 @@
-# Board verdict: Surat Smart Land (revised model, round 2)
+# Board verdict: Surat Smart Land (round 3, "family in transition")
 
-**Vote: 3 FUND IF, 0 FUND, 0 PASS. Average score 4.3 / 10** (round 1: 4.7).
+**Vote: 3 FUND IF, 0 FUND, 0 PASS. Average score 4.0 / 10** (round 1: 4.7, round 2: 4.3).
 
-| Lens | Round 1 | Round 2 | Vote |
-|---|---|---|---|
-| Offers | 5 | 4 | FUND IF |
-| Monopoly | 5 | 4 | FUND IF |
-| Product | 4 | 5 | FUND IF |
-
-The customer is now much clearer, and the board likes it: a heir who wants comfort and trust, keeps the land and wants income. Product went up for that reason. But the AI agent ecosystem made scope and cost bigger, and dropping the guarantee weakened the offer. Offers and Monopoly went down.
+| Lens | Round 1 | Round 2 | Round 3 | Vote |
+|---|---|---|---|---|
+| Offers | 5 | 4 | 4 | FUND IF |
+| Monopoly | 5 | 4 | 4 | FUND IF |
+| Product | 4 | 5 | 4 | FUND IF |
 
 ## Risks more than one member raised
 
-1. **Too much technology for what the heir is buying.** *(Product, Offers, Monopoly)* The heir buys peace of mind, not 8 agents, LoRaWAN, solar and irrigation. On under ฿1M, the tech can use up the budget before any heir feels a difference. Small numbers of plots won't make the agents better, so early on the ecosystem is a cost, not a moat.
-2. **Weak proof and slow results.** *(Offers, Product)* With no guarantee, no farming know-how, one family partner and results only at harvest, the heir pays ฿40k + ฿3k/month + installation on faith.
-3. **Unknown market and reach.** *(Offers, Monopoly)* How many Bangkok heirs of Surat Thani farms exist, how to reach customers 2 to 100, and what each costs to sign.
-4. **The grower partner could go around you.** *(Monopoly, with Product's handover concern)* If grower partners do the farming and the AI uses free data, what stops a partner dealing with the heir directly? Each handover (company → grower → agronomist → agent → LINE) is also a place where trust can break.
+1. **Two products for two customers, years apart.** *(all three)* Phase A sells farm tech to parents who already farm well. Phase B sells a managed asset to absent heirs. The real pain sits with the heir, but the heir's payoff comes only at a handover that could be many years away.
+2. **Phase A may not be needed.** *(Product, Monopoly, Offers)* Parents know their farm. Sensors and LINE alerts improve on what they do; they are not ten times better. It's also the easiest part to copy and the most likely to be crowded. If Phase A doesn't land, Phase B's data never gets collected.
+3. **The moat depends on people and timing nobody controls.** *(Monopoly, Product)* No grower partner is signed. Recorded routines are an untested way to pass on farming skill. The defensible part pays only after handovers, and fees must carry the company until then.
+4. **No proof and an unknown market.** *(Offers, Monopoly)* How many families are in this situation, who pays, and what an install costs are all unknown.
+
+## Where they agree, unusually strongly
+
+All three say the same thing: **start with Phase B.** Sell to heirs whose land is *already* in their hands or about to be, and make Phase A the onboarding for that product, not a second business.
 
 ## Where they disagree
 
-- **Guarantee.** Offers wants a guarantee on what you control (work on time, honest numbers, fast response), with a refund or fee waiver if missed. Product mainly wants the price to feel simple. Monopoly doesn't raise it.
-- **What the moat is.** Monopoly: an **independent audit brand** (sealed weighing plus yield record) that the company owns, with the heir relationship contracted to the company. Product: the trust in one honest weekly report. Neither thinks the AI ecosystem is the moat yet.
-- **Product sees progress** (score up) because the customer and experience are clear. Offers and Monopoly see more risk (scores down) because the proof and reach haven't changed.
+- **Monopoly** thinks the recorded farm know-how *could* be the only real moat, if it is proven to help a grower run an unfamiliar farm.
+- **Product** thinks the weekly heir report is the core, and wants it prototyped by hand with no AI.
+- **Offers** wants the payer decided first: parents or children.
 
 ## Conditions checklist
 
-- [ ] **One sentence, without the word "AI"**: "the heir gets an honest, weekly, plain-Thai account of their land and its income." *(Product)*
-- [ ] **Stage 1 builds only what makes that report trustworthy**: sealed weighing, photos, yield record. Agents, LoRaWAN, irrigation and the platform wait. *(Product, Monopoly)*
-- [ ] **Prove the pilot**: one documented harvest with sealed-weighing numbers against the baseline. *(Offers)*
-- [ ] **Show a visible result within 30 days**: the Health Check report and baseline. *(Offers)*
-- [ ] **Add a guarantee on what you control**, costed. → `/founder-cfo` *(Offers)*
-- [ ] **One total price the heir understands**, including first-year installation. → `/founder-cfo`, `/founder-consumer` *(Offers, Product)*
-- [ ] **Field station cost per plot**, and whether the base fee covers it. → `/founder-cfo` *(Monopoly, Product)*
-- [ ] **Count target heirs and test one channel**, with cost per heir. → `/founder-consumer`, `/founder-competitors` *(Offers, Monopoly)*
-- [ ] **Sign the pilot plus at least 5 non-family heirs.** *(Monopoly)*
-- [ ] **At least 2 grower partners outside the pilot family.** *(Offers)*
-- [ ] **Contracts that keep the heir relationship with the company**, so partners can't go around you. *(Monopoly)*
-- [ ] **One accountable person for each handover** on the pilot before a second plot. *(Product)*
-- [ ] **Map who already manages absentee-owned orchards**: brokers, collectors, co-ops, relatives. → `/founder-competitors` *(Monopoly, Product)*
-- [ ] **Stay in one district** until you hold most of the heirs you can reach. *(Monopoly)*
+- [ ] **Pick one customer and one sentence.** The heir. *(all three)*
+- [ ] **Find 5+ families where land is already with an heir or the handover is close**, and charge a real fee. *(Monopoly, Offers)*
+- [ ] **Decide who pays** and price against what that person gets. → `/founder-consumer`, `/founder-pricing` *(Offers)*
+- [ ] **Prototype the weekly heir report by hand** on the pilot farm (phone, LINE, scale, no AI). Prove the heir reads, trusts and would pay. *(Product)*
+- [ ] **Sign at least one grower partner and an agronomist**, and run a trial season before selling handover services. *(all three)*
+- [ ] **Show recorded routines help a grower run an unfamiliar plot.** *(Monopoly)*
+- [ ] **Map who already manages land for absent owners** and find the segment nobody serves. → `/founder-competitors` *(Monopoly, Offers, Product)*
+- [ ] **Equipment cost per plot, and survival on fees until handovers begin.** → `/founder-cfo` *(Monopoly, Offers, Product)*
+- [ ] **A written guarantee on what the company controls**, costed. → `/founder-cfo` *(Offers)*
+- [ ] **Park the multi-agent platform** until the core works for a handful of families. *(Product)*
 
 ## The strongest version the board can see
 
-**An independent "honest land report" brand for absentee durian and rubber heirs in one Surat Thani district.** Every harvest is sealed-weighed and photographed. The heir receives one plain-Thai weekly LINE report and a clear income statement. The farming is done by trusted grower partners under contracts that keep the heir relationship with the company. The heir pays one simple price, with a guarantee on what the company controls. The AI agents are real but hidden: they are how the company writes better reports and gives better advice as plots accumulate, not what it sells. The ecosystem and infrastructure vision is Stage 3, funded by revenue from the trust brand. This differs from the pitch: the board would fund the trust brand first and the AI platform later.
+After three rounds, the board keeps landing in the same place: **a trusted service for heirs who already own Surat Thani durian and rubber land they don't farm.** Grower partners run the land, and the heir gets an honest weekly LINE report with sealed harvest records. Smart-farming tools and the parents' recorded know-how are *how* the company does this well, and how it signs families before the handover. They are not a separate product for parents. The AI agent platform comes later. This differs from what was pitched this round, which led with smart farming for the parents.
+
+Note for the founder: scores have stayed between 4 and 5 across three different models, because every lens is asking for evidence that doesn't exist yet: real families, a real season, real costs. Another rewrite of the idea is unlikely to move the score. Real data from the pilot farm and the first heirs will.

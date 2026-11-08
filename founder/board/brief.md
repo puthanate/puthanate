@@ -1,57 +1,54 @@
-# Board brief: Surat Smart Land (revised model)
+# Board brief: Surat Smart Land (round 3, "family in transition")
 
-## The customer and the pain
+## The customer
 
-- **Who:** heirs of family farmland in Surat Thani, southern Thailand, mainly durian and rubber (ยางพารา). Often 2nd/3rd generation and living in Bangkok.
-- **What they want:** they don't know how to farm and don't want to learn. They want to keep the land (never sell), live off its income, and see a return that "makes sense" as an investment.
-- **What matters most to them:** comfort (they don't have to think about it) and trust (they're not being cheated).
-- **A real example:** the founder's partner's family farms durian and rubber. The partner has said that if she inherits she wouldn't know how to run it and just wants to live off the income.
-- **The founder's background:** this idea was the founder's thesis and personal statement for entry to Waseda University.
+Farm families in Surat Thani, southern Thailand, growing durian and rubber (ยางพารา):
+- **The parents** still farm the land themselves and are on the farm every day.
+- **The children** (2nd/3rd generation, often living in Bangkok) will inherit. They don't know how to farm, don't want to learn, and want to keep the land and live off its income. They value comfort and trust.
 
-## The model: advise and implement, with no guarantee
+A real example: the founder's partner's family farms durian and rubber. The partner has said that if she inherits she wouldn't know how to run it and just wants to live off the income. The idea began as the founder's thesis and personal statement for Waseda University.
 
-- **The heir:** keeps the land title and has the final say on decisions.
-- **The company:** acts as advisor and implementor, not owner or lessee. It makes no guarantee of crop results or income. It is accountable for what it controls: doing agreed work on time, honest numbers, best advice, and fast response. It is not accountable for weather, prices or disease outbreaks. The contract will state this.
-- **The farm work:** done by **experienced local grower partners**, starting with the founder's partner's family as the pilot, plus an agronomist advisor. The founder has technology skills, not farming know-how.
-- **Trust:** comes from sealed weighing at the harvest handover (certified scale, camera, tags), photos, a yield record and plain-Thai LINE reports for the heir, in good years and bad.
+## Why this customer (what earlier rounds learned)
 
-## The technology vision: an AI agent ecosystem
+- An earlier version sold farm security to farmers. The founder dropped it because farmers who live on the land are already the security; watching only has value for an owner who is away.
+- Working farmers have eyes on the farm but lack what eyes can't see: soil moisture, early disease, the coming weather, the best price, enough workers.
+- Absent heirs lack eyes, know-how and trust.
+- A family in transition has both needs, in sequence.
 
-One AI agent per farm job:
-- weather and water
-- crop calendar (flowering and fertiliser timing for durian; tapping and rest days for rubber)
-- plant health (phone photos plus satellite)
-- harvest and quality (maturity, preventing immature durian cutting, sealed weights)
-- market prices
-- crew scheduling
-- paperwork (GAP, export registration, EU Deforestation Regulation traceability)
-- the owner's weekly LINE report
+## The model
 
-An orchestrator coordinates them. **Agents recommend; a person (grower partner or agronomist) approves.** Data from every plot improves the agents for all plots.
+**Phase A, while the parents farm: smart farming support.**
+- Install tools: weather station, soil moisture, water level, cameras where useful, a certified scale at harvest.
+- Deliver alerts and advice on LINE: when to water, weather and flood warnings, disease warnings from phone photos, a crop calendar for durian flowering and fertiliser and for rubber tapping and rest days, harvest records.
+- The parents decide and do the work.
+- At the same time, the system records the farm's know-how, routines, yields and history.
 
-## Infrastructure needed
+**Phase B, after the handover: a managed, reported asset.**
+- When the land passes to the children, trusted local grower partners (and an agronomist advisor) run it, using the recorded routines.
+- The heir receives income and an honest plain-Thai weekly LINE report, with sealed weighing and photos at harvest. Security monitoring matters here, because the owner is away.
 
-- Connectivity (4G is patchy; a LoRaWAN gateway for sensors)
-- Solar power
-- A weather station, soil moisture sensors and pond water level
-- A "field station" shelter per farm or cluster (gateway, sealed scale, camera, storage)
-- Irrigation upgrades for durian
-- Contracted drone surveys
+**Role:** the company advises and implements. It makes no guarantee of crop results or income, and is accountable for what it controls: work on time, honest numbers, best advice, fast response. The family keeps the land and the final decisions.
 
-## Price (premium, not competing on price)
+**Long-term vision:** an AI agent for each farm job (weather and water, crop calendar, plant health, harvest, market, crew, paperwork, owner report), coordinated together, improving as more farms join. Built in stages.
 
-- **Land Health Check:** ฿40,000 one-off (survey, title check, tree census, sealed-weighing shadow audit, baseline yield).
-- **Base fee:** ฿3,000 per plot per month, paid in any year.
-- **Performance share:** a percentage of yield above the audit baseline, adjusted for price and weather. The percentage is not set yet.
-- **Field station and IoT installation:** charged to the owner. Cost per plot unknown.
+## Price (premium, not competing on price; carried over from earlier rounds, to be retested)
+
+- **Farm set-up and Land Health Check:** ฿40,000 one-off.
+- **Equipment installation:** charged to the family. Cost per plot unknown.
+- **Monthly service:** ฿3,000 per plot per month.
+- **After the handover:** a performance share on yield above the baseline (percentage not set).
 
 ## Plan and budget
 
-- Bootstrapped, under ฿1M, founder(s) only.
-- **Stage 1 (months 0–6):** one pilot plot (the partner's family), one field station, 3 agents (weather and water, crop calendar, owner report), built on LINE with free data and a commercial AI model.
-- **Stage 2 (months 6–18):** 10–20 heir plots nearby; add the plant health and harvest agents and some irrigation.
-- **Stage 3:** the full agent ecosystem, open as a platform to other growers.
+- Bootstrapped, under ฿1M, founder(s) only. The founder has technology skills, not farming know-how.
+- **Stage 1:** the pilot family farm, a few tools, 2–3 agents (weather and water, crop calendar, family report).
+- **Stage 2:** 10–20 families nearby.
+- **Stage 3:** handover services and the wider agent platform.
 
 ## Not known yet
 
-Number of target heirs, cost to acquire one, installation cost per plot, real yield uplift or leakage numbers, the performance-share percentage, whether grower partners beyond the pilot family will join, and existing competitors.
+- How many families are in this situation in Surat Thani.
+- Who pays, parents or children, and how much each would pay.
+- Equipment cost per plot, and real yield or cost benefits of the tools for parents who already farm well.
+- How long until the handover (could be many years).
+- Whether grower partners will take over, and existing competitors.
